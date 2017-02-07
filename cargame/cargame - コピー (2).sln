@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D2DEBD77-BF9C-8255-06CB-39A23A11076F}") = "cargame - コピー (2)", "Assembly-CSharp.csproj", "{0D4D5C00-A804-9EDA-B4F9-5995CC7AEC26}"
+EndProject
+Project("{D2DEBD77-BF9C-8255-06CB-39A23A11076F}") = "cargame - コピー (2)", "Assembly-CSharp-Editor.csproj", "{B3A62B17-F972-FA17-B63E-E07D3B967850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D4D5C00-A804-9EDA-B4F9-5995CC7AEC26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4D5C00-A804-9EDA-B4F9-5995CC7AEC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4D5C00-A804-9EDA-B4F9-5995CC7AEC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4D5C00-A804-9EDA-B4F9-5995CC7AEC26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3A62B17-F972-FA17-B63E-E07D3B967850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A62B17-F972-FA17-B63E-E07D3B967850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A62B17-F972-FA17-B63E-E07D3B967850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A62B17-F972-FA17-B63E-E07D3B967850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
